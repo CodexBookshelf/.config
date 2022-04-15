@@ -1,3 +1,6 @@
+"based on https://www.youtube.com/watch?v=JWReY93Vl6g
+"https://github.com/NeuralNine/config-files/blob/master/init.vim
+
 "nova configuração feita seguindo apenas alguns tutoriais e copiando e colando
 "sugestões, além de um tutorial específico que foi a base para este doc (eu precisava de uma
 "instalação mais limpa do Neovim)

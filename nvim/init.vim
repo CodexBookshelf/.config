@@ -1,6 +1,3 @@
-"based on https://www.youtube.com/watch?v=JWReY93Vl6g
-"https://github.com/NeuralNine/config-files/blob/master/init.vim
-
 "nova configuração feita seguindo apenas alguns tutoriais e copiando e colando
 "sugestões, além de um tutorial específico que foi a base para este doc (eu precisava de uma
 "instalação mais limpa do Neovim)
@@ -19,6 +16,8 @@
 
 call plug#begin()
 
+Plug 'mhinz/vim-startify' " tela inicial interessante
+Plug 'mattn/emmet-vim' " EMMET
 Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw)
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
 Plug 'https://github.com/tpope/vim-commentary' " For Commenting gcc & gc
